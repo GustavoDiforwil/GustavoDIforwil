@@ -1,17 +1,15 @@
 
 <div align="center">
-  <h1> Olá! </h1>
+  <h1> Olá! Gustavo aqui</h1>
 </div></br>
 <div align="left"><br>
-  <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Imagem" min-width="400px" max-width="400px" width="400px" align="right">
+  <img align="right" src="" alt="Imagem" min-width="400px" max-width="400px" width="400px" align="right">
 
   <p>- 💻 Studying Python to become a backend developer. </p>
   <p>- 📫 How to reach me: @rp_micael | in/micaelrpereira </p>
   <p>- 😄 Pronouns: ele/dele | he/him </p>
   <p>- 🌱 Exploring the fundamentals of programming. </p>
-  <p>- </p>
   <p>- 💻 Favorite Language: python  </p>
-  <p>-  </p>
 </div>
 
 </br>   
