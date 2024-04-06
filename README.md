@@ -15,9 +15,9 @@
   <p>- 💻 Favorite Language: python  </p>
 
 </div></br>   
- <div align="left"><br>
+ <div align="center"><br>
   <a href="https://www.instagram.com/gustavo_diforwil" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<div align="left">
+<div align="center">
 <p style="font-size: 20px;">🔎 Total de Visitas<p>
 <img alingn="left" src="https://profile-counter.glitch.me/GustavoDiforwil/count.svg"/>
 </div>    
