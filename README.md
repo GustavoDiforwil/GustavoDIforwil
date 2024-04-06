@@ -1,9 +1,10 @@
 
 <div align="center">
   <h1> Olá! Gustavo aqui</h1>
+  <img align="right" src="newwwww-removebg-preview.png" alt="Imagem" min-width="400" max-width="400px" width="230px" align="right">
+
 </div></br>
  <div align="left"><br>
-   <img align="right" src="newwwww-removebg-preview.png" alt="Imagem" min-width="400" max-width="400px" width="230px" align="right">
 
   <br>
 
