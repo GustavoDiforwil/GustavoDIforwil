@@ -3,7 +3,7 @@
   <h1> Olá! Gustavo aqui</h1>
 </div></br>
 <div align="left"><br>
-  <img align="right" src="" alt="Imagem" min-width="400px" max-width="400px" width="400px" align="right">
+  <img align="right" src="thumb-removebg-preview.png" alt="Imagem" min-width="400px" max-width="500px" width="600px" align="right">
 
   <p>- 💻 Studying Python to become a backend developer. </p>
   <p>- 📫 How to reach me: @gustavo_diforwil </p>
