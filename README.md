@@ -8,7 +8,7 @@
 
   <br>
 
-  <p>- 💻 Studying Python to become a backend developer. </p>
+  <p>- 💻 Studying Python/programming to become a backend developer. </p>
   <p>- 📫 How to reach me: @gustavo_diforwil </p>
   <p>- 😄 Pronouns: ele/dele | he/him </p>
   <p>- 🌱 Exploring the fundamentals of programming. </p>
