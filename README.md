@@ -7,7 +7,7 @@
 
   <br>
 
-  <p> .                                       . </p>
+  <p>- i love progamtions </p>
   <p>- 📫 How to reach me: @gustavo_diforwil </p>
   <p>- 😄 Pronouns: ele/dele | he/him </p>
   <p>- 🌱 Exploring the fundamentals of programming. </p>
