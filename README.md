@@ -1,51 +1,20 @@
 
 <div align="center">
-  <h1> Olá! Micael eu ser 🖖🏻 </h1>
+  <h1> Olá! </h1>
 </div></br>
 <div align="left"><br>
   <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Imagem" min-width="400px" max-width="400px" width="400px" align="right">
 
-  <p>- 🔭 I'm working as a Support Analyst </p>
+  <p>- 💻 Studying Python to become a backend developer. </p>
   <p>- 📫 How to reach me: @rp_micael | in/micaelrpereira </p>
   <p>- 😄 Pronouns: ele/dele | he/him </p>
-  <p>- 🎸 Hobbies: Play the guitar, drink chimarrão and a good coffee </p>
-  <p>- 👨‍🎓 Learning Web Full Stack at Growdev : HTML - CSS - Bootstrap - JavasScript -TypeScript - NodeJS - MongoDB - MySQL - GIT</p>
-  <p>- 💻 Favorite Language: PHP - JavaScript </p>
-  <p>- 📚 Currently Studying: HTML - JavaScrip - Bootstrap - Docker - Prometheus - Grafana - AWS - Cloudwatch </p>
+  <p>- 🌱 Exploring the fundamentals of programming. </p>
+  <p>- </p>
+  <p>- 💻 Favorite Language: python  </p>
+  <p>-  </p>
 </div>
 
-</br>
-<h1 align="center">⚙️ GitHub Analytics</h1>
-
-<div align="center">
-  <a href="https://github.com/MicaelRPereiraGTI">
-  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MicaelRPereiraGTI&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>-->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicaelRPereiraGTI&layout=compact&langs_count=7&theme=radical"/>
-</div>
-  
-<div align="center"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Grafana" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg">
-  <img align="center" alt="Prometheus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg">
-</div><br/>
-  
-<div align="center">
-  <a href="https://instagram.com/micaelpereira.js" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/JsProprio" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>  
-  <a href="https://www.linkedin.com/in/micaelrpereira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:proprio.jc@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>    
+</br>   
 
 <!--
 <div align="center">
