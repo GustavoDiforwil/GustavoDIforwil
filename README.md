@@ -3,7 +3,7 @@
   <h1> Olá! Gustavo aqui</h1>
 </div></br>
  <div align="left"><br>
-   <img align="right" src="newwwww-removebg-preview.png" alt="Imagem" min-width="400" max-width="8000px" width="230px" align="right">
+   <img align="right" src="newwwww-removebg-preview.png" alt="Imagem" min-width="400" max-width="400px" width="230px" align="right">
 
   <br>
 
