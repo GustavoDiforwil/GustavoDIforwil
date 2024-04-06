@@ -2,19 +2,21 @@
 <div align="center">
   <h1> Olá! Gustavo aqui</h1>
 </div></br>
-<div align="left"><br>
-  <img align="right" src="thumb-removebg-preview.png" alt="Imagem" min-width="400px" max-width="500px" width="600px" align="right">
+<div align="center"><br>
+ <img align="center" src="thumb-removebg-preview.png" alt="Imagem" min-width="400" max-width="570px" width="600px" align="center">
+  <br>
 
   <p>- 💻 Studying Python to become a backend developer. </p>
   <p>- 📫 How to reach me: @gustavo_diforwil </p>
   <p>- 😄 Pronouns: ele/dele | he/him </p>
   <p>- 🌱 Exploring the fundamentals of programming. </p>
   <p>- 💻 Favorite Language: python  </p>
+
+
 </div>
 
 </br>   
-
-<div align="center">
+ <div align="center"><br>
   <a href="https://www.instagram.com/gustavo_diforwil" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
