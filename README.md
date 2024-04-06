@@ -6,7 +6,7 @@
   <img align="right" src="" alt="Imagem" min-width="400px" max-width="400px" width="400px" align="right">
 
   <p>- 💻 Studying Python to become a backend developer. </p>
-  <p>- 📫 How to reach me: @rp_micael | in/micaelrpereira </p>
+  <p>- 📫 How to reach me: @gustavo_diforwil </p>
   <p>- 😄 Pronouns: ele/dele | he/him </p>
   <p>- 🌱 Exploring the fundamentals of programming. </p>
   <p>- 💻 Favorite Language: python  </p>
