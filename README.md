@@ -2,7 +2,9 @@
 <div align="center">
   <h1> Olá! Gustavo aqui</h1>
 </div></br>
- <div align="center"><br>
+ <div align="left"><br>
+   <img align="right" src="newwwww-removebg-preview.png" alt="Imagem" min-width="400" max-width="8000px" width="250px" align="right">
+
   <br>
 
   <p>- 💻 Studying Python to become a backend developer. </p>
@@ -10,8 +12,6 @@
   <p>- 😄 Pronouns: ele/dele | he/him </p>
   <p>- 🌱 Exploring the fundamentals of programming. </p>
   <p>- 💻 Favorite Language: python  </p>
-<div align="center"><br>
- <img align="center" src="thumb-removebg-preview.png" alt="Imagem" min-width="400" max-width="570px" width="600px" align="center">
 
 </div>
 
